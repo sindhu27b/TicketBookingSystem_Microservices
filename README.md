@@ -1,4 +1,5 @@
 # 🎟️ Ticket Booking System – Microservices Architecture
+<img width="1575" height="969" alt="image" src="https://github.com/user-attachments/assets/6a47492f-62a5-4392-9fff-78d244caa045" />
 
 A **backend ticket booking platform** built using **Spring Boot and Java 21**, designed to demonstrate a **production-style microservices architecture**.  
 This project focuses on **service separation, asynchronous messaging, resiliency, security, and API management**, rather than UI development.
